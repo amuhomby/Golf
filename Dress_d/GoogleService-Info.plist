@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>9201233418-j751sht3rhseifotgu2c3vr7vk4erh2u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.9201233418-j751sht3rhseifotgu2c3vr7vk4erh2u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBleMbGJeGEPBtesAdP4bRXjoEKKtGnouQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>9201233418</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ryan.dressd</string>
+	<key>PROJECT_ID</key>
+	<string>dressd-89a2f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dressd-89a2f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:9201233418:ios:22c84a7aa10d4471</string>
+	<key>DATABASE_URL</key>
+	<string>https://dressd-89a2f.firebaseio.com</string>
+</dict>
+</plist>
